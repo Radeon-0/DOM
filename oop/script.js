@@ -42,7 +42,7 @@ const block = new DomElement(
     '24px');
 
 const block2 = new DomElement(
-    '#block',
+    '.block',
     '200px',
     '300px',
     'black',
